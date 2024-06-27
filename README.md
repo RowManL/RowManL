@@ -1,4 +1,4 @@
-<h2 align="left">Hi There ✌🏼</h2>
+<img src="github_banner.png">
 <hr/>
 <div>
   <h3>About me</h3>
